@@ -1,6 +1,5 @@
 from  tkinter import *
 import tkinter.messagebox
-#=======================  09308296611  ========================
 #=======================  Settings  ========================
 root=Tk()
 root.title('calculator')
